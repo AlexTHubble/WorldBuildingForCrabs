@@ -1,0 +1,5 @@
+To the everyday citizen of [[Dusktov]] the Shepherd is but a murmuring, a name known only to those who associate with the dearly departed and even then a small part of the ghostly population know of this name. Rumors propagated with the phenomena of ghosts sprinting to their "deaths" into the electric walls that separate [[Dusktov]] from the [[Ghost fields]], screaming the name of the Shepherd into oblivion. 
+
+To this some believe that the Shepherd is a delusion of the undead, a rumor started and propagated by the rapidly deteriorating minds of a ghost. Some believe that this may be a god caring for the undead, some even think that this shepherd started the cataclysm that started this all in the first place. What is known however is that nothing is known, simply another rumor in the dark city of mystery. 
+
+#NPC #god #Blades 

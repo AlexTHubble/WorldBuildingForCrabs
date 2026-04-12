@@ -1,0 +1,1 @@
+A ghost under the supervision of [[Saviors of Undead Lives]], he belives himself to be a rat, has a supposed network of rats, and really fucking loves cheese

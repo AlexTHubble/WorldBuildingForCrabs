@@ -1,0 +1,3 @@
+The party having learned of a perfect holding area for their ghosts, go and "clean up" the premises by killing 6 crazy dudes named Steven. Unleashing the ghosts upon the poor bastards the steven's are quickly disposed off, however now there are 5 angry ghosts about. They manage to contain 3, one is sane enough to cooperate, but one posseses a steven body and escapes. Becoming [[The serial killer known as steven]]. 
+
+The final ghost having lost her daughter to the Steven's ritual, cannot remember her name... oddly thinking it to simply be "steven"

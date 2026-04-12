@@ -1,0 +1,3 @@
+The Strawhat crew is the most notable crew on [[Oda]], they are known as a group of moraly good pirates, steal from the undeserving and give to the needy. Their main source of income is The Strawhat, a giant tourist destination on one of the migrating islands. Here you can buy pirated goods, visit brothels, and enjoy barley legal gambling rings. But most importantly it’s a zero hostility zone, making it the beating heart of many pirate crews.
+
+#organization

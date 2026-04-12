@@ -1,0 +1,2 @@
+
+The party crashes the memorial service for [[Bradley Ming]], a deceased baker in Coalridge, after nutpunching a scalper the party steals the body to ensure a safe ghost transfer, gaining a new ghost and a few supporters.

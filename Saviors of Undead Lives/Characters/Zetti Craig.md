@@ -1,0 +1,1 @@
+Ring leader assassin for [[The Worms]]

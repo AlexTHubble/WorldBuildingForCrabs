@@ -1,0 +1,1 @@
+The worms are a crew of "spectacle" assassins ran by [[Zetti Craig]], currently sharing turf with the [[Saviors of Undead Lives]]

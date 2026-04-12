@@ -1,0 +1,1 @@
+A ghost who became a vampire partially due to the party's meddling, possessing a body of a steven she is on a killing spree. Current wareabouts unkown  
