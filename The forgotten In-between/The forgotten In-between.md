@@ -1,0 +1,5 @@
+The forgotten In-between is a [Magical Realism](https://en.wikipedia.org/wiki/Magical_realism) setting where human experience creates an [energy known as EXE (short for Experience Energy)](EXE.md) that leaks from [[Reality]] into [[The Inbetween]]. This energy leak causes [[The Inbetween]] to manifest as it's own realm shaped by the properties of the experience that created the [[EXE]].
+
+The denizens of [[The Inbetween]] are able to interact with [[Reality]] in short bursts known as [[Echo]]s. Since [[EXE]] cannot exist in reality, [[Echo]]s are relatively short lived and can fully destroy the entity if it overstays it's welcome. Most mundane humans can only experience part of what an [[Echo]], unable to witness the full being. 
+
+There are also [[Empaths]], humans attuned to [[EXE]]. [[Empaths]] are able to witness [[Echo]]s fully, and in some cases even channel [[EXE]] for their own use. 
