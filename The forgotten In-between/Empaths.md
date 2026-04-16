@@ -1,0 +1,11 @@
+Empaths are human individuals who are able to interact with [[Echo(s)]], [[EXE]], and even [[The Inbetween]] itself. At a base level Empaths are able to at least see and interact with these entities the way they could with an object or being in reality, Empaths who's abilities stop at that are referred to as *Witnesses*. Empaths who are able to naturally manipulate [[EXE]] are broken up into a two part power scale, Minor Empaths and Major Empaths. 
+
+To explain the difference between these two, we first must explore how [[EXE]] is manipulated by Empaths. Each classification of [[EXE]] has three implementations of channeling being *Manipulation*, *Conjuring*, and *Consumption*. 
+
+- Manipulation is the ability to channel internal [[EXE]] into another entity (living or otherwise) altering them in some way. The change varies based on the [[EXE]] being channeled, however every [[EXE]] has the same effect when being pushed into a living entity. When a living entity (either [[Echo(s)]] or a living being from [[Reality]]) gets [[EXE]] pushed into them, the reaction is almost always to get a surge of the emotion associated with the [[EXE]]. 
+
+- Consumption is the opposite of Manipulation, the ability to absorb and channel [[EXE]] internally. This will cause a physical or mental change in the Empath. This also comes with the added ability to forcibly absorb [[EXE]] from other sources. When absorbed from a living entity, the subject will feel an apathy of the associated emotion (results vary on emotions that are defined by a lack of another such as Sorrow, see notes for effect).
+
+- Conjuring is the ability to use [[EXE]] to create an object or force in [[Reality]]. This varies wildly between [[EXE]] classes and Empaths in general. Like [[Echo(s)]] conjured objects have a limited "life span" within [[Reality]] as it will attempt to expel the [[EXE]] used to give it shape. 
+
+Minor Empaths are able to use a single [[EXE]] channel with a single [[EXE]] class. Where Major Empaths have the ability to learn multiple. Major Empaths have what is called a "Major EXE focus", a single [[EXE]] class channel combo that they have mastery over. What sets this apart is their innate ability to altar their focus with other classes of [[EXE]], altering the results. 
