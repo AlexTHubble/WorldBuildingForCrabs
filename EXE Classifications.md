@@ -2,11 +2,14 @@ Below is the list of [[EXE]] classifications, how they manifest as [[Echo(s)]], 
 
 ## Classifications 
 
-## Positive EXEs
-#### Joy
+### Joy
 *Paired with Sorrow*
 - One of the most Common EXE's produced however simultaneously the most rare within [[The Inbetween]], this is largely due to Humans naturally wanting to hold as much as possible, rarely letting go.
-##### Empaths
+#### Empaths Channels
+- Consumption:
+- Manipulation:
+- Conjuration:
+#### In between incarnation details
 
 
 
