@@ -13,26 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The forgotten In-between/EXE.md",
+                "file": "The forgotten In-between/Empaths.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EXE"
-            }
-          },
-          {
-            "id": "94fd4a65a137bf71",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Empaths"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,8 +173,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "94fd4a65a137bf71",
+  "active": "aa80ba597c205aa4",
   "lastOpenFiles": [
+    "The forgotten In-between/Echo(s).md",
     "The forgotten In-between/EXE.md",
     "The forgotten In-between/The forgotten In-between.md",
     "The forgotten In-between/Locations/Reality.md",
