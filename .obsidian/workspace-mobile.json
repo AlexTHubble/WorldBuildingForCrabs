@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EXE Classifications.md",
+                "file": "The forgotten In-between/EXE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EXE Classifications"
+              "title": "EXE"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "EXE Classifications"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,10 +187,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c0f79d4dd795d9cb",
+  "active": "aa80ba597c205aa4",
   "lastOpenFiles": [
-    "The forgotten In-between/EXE.md",
     "EXE Classifications.md",
+    "The forgotten In-between/EXE.md",
     "The forgotten In-between/Empaths.md",
     "The forgotten In-between/Echo(s).md",
     "The forgotten In-between/The forgotten In-between.md",
