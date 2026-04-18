@@ -6,7 +6,8 @@ Below is the list of [[EXE]] classifications, how they manifest as [[Echo(s)]], 
 *Paired with Sorrow*
 - One of the most Common EXE's produced however simultaneously the most rare within [[The Inbetween]], this is largely due to Humans naturally wanting to hold as much as possible, rarely letting go.
 #### Empaths Channels
-- Consumption:
+- Consumption: 
+	- A
 - Manipulation:
 - Conjuration:
 #### In between incarnation details
