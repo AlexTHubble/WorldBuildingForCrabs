@@ -7,10 +7,10 @@ Researchers have been able to categorize these into 10 classifications (explored
 - Joy // Sorrow
 	- Joy - One of the most Common EXE's produced however simultaneously the most rare within [[The Inbetween]], this is largely due to Humans naturally wanting to hold as much as possible, rarely letting go.
 	- Sorrow - Common in both generation and within [[The Inbetween]], Humans tend to let go of excess sadness quickly leading to a large buildup.
-- Fear // Discovery 
+- Fear // Discovery // Acceptance (Alternative to discovery???)
 - Anger // Serenity 
-- Repulsion // Passion 
+- Repulsion // Passion (or - Pain // Pleasure)
 - Creation // Destruction 
 - Greed // Generosity
-- Pain // Pleasure
+
 
