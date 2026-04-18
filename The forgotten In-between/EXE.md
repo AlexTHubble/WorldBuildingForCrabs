@@ -9,7 +9,7 @@ Researchers have been able to categorize these into 10 classifications (explored
 	- Sorrow - Common in both generation and within [[The Inbetween]], Humans tend to let go of excess sadness quickly leading to a large buildup.
 - Fear // Discovery // Acceptance (Alternative to discovery???)
 - Anger // Serenity 
-- Repulsion // Passion (or - Pain // Pleasure)
+- Repulsion // Passion (or - Pain // Pleasure mayhaps?)
 - Creation // Destruction 
 - Greed // Generosity
 
