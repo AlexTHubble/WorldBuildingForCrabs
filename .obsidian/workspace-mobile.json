@@ -35,7 +35,8 @@
               "title": "EXE Classifications"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,12 +188,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "aa80ba597c205aa4",
+  "active": "c0f79d4dd795d9cb",
   "lastOpenFiles": [
+    "The forgotten In-between/Echo(s).md",
     "EXE Classifications.md",
     "The forgotten In-between/EXE.md",
     "The forgotten In-between/Empaths.md",
-    "The forgotten In-between/Echo(s).md",
     "The forgotten In-between/The forgotten In-between.md",
     "The forgotten In-between/Locations/Reality.md",
     "The forgotten In-between/Echo.md",
