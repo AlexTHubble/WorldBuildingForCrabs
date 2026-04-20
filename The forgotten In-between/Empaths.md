@@ -1,11 +1,10 @@
 Empaths are human individuals who are able to interact with [[Echo(s)]], [[EXE]], and even [[The Inbetween]] itself. At a base level Empaths are able to at least see and interact with these entities the way they could with an object or being in reality, Empaths who's abilities stop at that are referred to as *Witnesses*. Empaths who are able to naturally manipulate [[EXE]] are broken up into a two part power scale, Minor Empaths and Major Empaths. 
 
-To explain the difference between these two, we first must explore how [[EXE]] is manipulated by Empaths. Each classification of [[EXE]] has three implementations of channeling being *Manipulation*, *Conjuring*, and *Consumption*. 
+Minor Empaths are able to use one of the two Empath channels for *a single* [[EXE]], where a Major Empath is inherently able to use both Empath channels for a single [[EXE]] and have the ability to learn others. Major Empaths as well have the ability to draw [[EXE]] directly from their surroundings where Minor Empaths are only able to use their internal reserve (This can be supplemented by consuming raw physical [[EXE]] produced by various corporations). 
 
-- Manipulation is the ability to channel internal [[EXE]] into another entity (living or otherwise) altering them in some way. The change varies based on the [[EXE]] being channeled, however every [[EXE]] has the same effect when being pushed into a living entity. When a living entity (either [[Echo(s)]] or a living being from [[Reality]]) gets [[EXE]] pushed into them, the reaction is almost always to get a surge of the emotion associated with the [[EXE]]. 
+The two Empath channels are known as *Consumption* and *Expulsion*. 
 
-- Consumption is the opposite of Manipulation, the ability to absorb and channel [[EXE]] internally. This will cause a physical or mental change in the Empath. This also comes with the added ability to forcibly absorb [[EXE]] from other sources. When absorbed from a living entity, the subject will feel an apathy of the associated emotion (results vary on emotions that are defined by a lack of another such as Sorrow, see notes for effect).
+Consumption consumes the internal [[EXE]] and creates an internal effect on the user.
+Expulsion expels the internal [[EXE]] and creates an external effect. 
 
-- Conjuring is the ability to use [[EXE]] to create an object or force in [[Reality]]. This varies wildly between [[EXE]] classes and Empaths in general. Like [[Echo(s)]] conjured objects have a limited "life span" within [[Reality]] as it will attempt to expel the [[EXE]] used to give it shape. 
-
-Minor Empaths are able to use a single [[EXE]] channel with a single [[EXE]] class. Where Major Empaths have the ability to learn multiple. Major Empaths have what is called a "Major EXE focus", a single [[EXE]] class channel combo that they have mastery over. What sets this apart is their innate ability to altar their focus with other classes of [[EXE]], altering the results. 
+There is also a third channel only available to Major Empaths called *absorption*. This is simply the act of drawing out the [[EXE]] of an entity. This can be a deceptively powerful ability as it'll have an immediate effect on the target, dampening the drained emotion from the target. 
