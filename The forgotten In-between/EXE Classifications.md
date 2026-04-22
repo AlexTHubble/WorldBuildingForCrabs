@@ -7,6 +7,7 @@ Below is the list of [[EXE]] classifications, how they manifest as [[Echo(s)]], 
 - One of the most Common EXE's produced however simultaneously the most rare within [[The Inbetween]], this is largely due to Humans naturally wanting to hold as much as possible, rarely letting go.
 #### Empaths Channels
 - Consumption: Enhances the speed and reflexes of the Empath, the higher the amount consumed the faster the speed
+	- While reflexes are faster it's important to note that the brain still works at the same speed, this can lead to disorientation at higher speeds.
 - Expulsion: Joy manifests as an electricity of sort when released.    
 - Drain effect: The target will become lethargic and have difficulty focusing
 #### In between incarnation details
@@ -30,20 +31,27 @@ Below is the list of [[EXE]] classifications, how they manifest as [[Echo(s)]], 
 ### Discovery
 *Paired with Fear*
 #### Empaths Channels
-- Consumption: Will allow the Empath to locate something of their choosing within a radius
-- Expulsion: Creates floating lights
-- Drain effect: Gives the one who is *draining* information on the one being drained
-	- This is one of the few drains that does not directly effect the drained.
+- Consumption: While channeling the user can see the "souls" of people & entities, this appears as a thin outline around their form that is visible through obstructions. 
+	- New Empaths describe this as overstimulating at first but quickly adjust
+	- This has been proven to get around modern stealth technology and obscuring EXE channels 
+- Expulsion: Creates a compass that'll point towards an object or place that the Empath focuses on when created
+- Drain effect: When draining the Empath gets information about the drained target
+	- This is one of the few drains that effects the drainer rather than the drainee 
 
 ### Anger
 *Paired with Serenity*
 #### Empaths Channels
 - Consumption: Will cause the Empath to get a flakey magma like shell, increasing their physical abilities but making them extra frail as a result. 
-- Expulsion: Creates fire that'll burn through the [[EXE]] provided as fuel
+- Expulsion: Creates fire that'll burn as bright and hot as the amount of [[EXE]] used to create it
 - Drain effect: Calms the target
-
+### Serenity
+*Paired with Anger*
+#### Empaths Channels
+- Consumption: Greatly enhances focus, allowing the Empath to think and react faster than normal
+	- This is the cognitive equivalent to Joy's consumption
+- Expulsion: Creates a healing mist, contact with this mist will accelerate the healing of any open wounds
+- Drain effect: Causes anxiety in the drained
 ## TODO
-- Anger // Serenity 
 - Repulsion // Passion (or - Pain // Pleasure mayhaps?)
 - Creation // Destruction 
 - Greed // Generosity
