@@ -4,7 +4,6 @@ Below is the list of [[EXE]] classifications, how they manifest as [[Echo(s)]], 
 
 ### Joy
 *Paired with Sorrow*
-- One of the most Common EXE's produced however simultaneously the most rare within [[The Inbetween]], this is largely due to Humans naturally wanting to hold as much as possible, rarely letting go.
 #### Empaths Channels
 - Consumption: Enhances the speed and reflexes of the Empath, the higher the amount consumed the faster the speed
 	- While reflexes are faster it's important to note that the brain still works at the same speed, this can lead to disorientation at higher speeds.
@@ -13,7 +12,6 @@ Below is the list of [[EXE]] classifications, how they manifest as [[Echo(s)]], 
 #### In between incarnation details
 ### Sorrow
 *Paired with Joy*
-- Common in both generation and within [[The Inbetween]], Humans tend to let go of excess sadness quickly leading to a large buildup.
 #### Empaths Channels
 - Consumption: Makes the Empath more difficult to perceive, the more used the stronger the effect
 - Expulsion: Creates a mist that "dampens" everything within it, causing everything to move slower, think slower, and respond slower
@@ -25,7 +23,7 @@ Below is the list of [[EXE]] classifications, how they manifest as [[Echo(s)]], 
 #### Empaths Channels
 - Consumption: Consuming fear transforms the user into what has been dubbed a "fear shade". Fear shades are pitch black creatures who are able to altar their bodies using [[EXE]], letting them naturally sharpen their hands into claws, stretch out their limbs to reach farther, and even grow extra appendages out of pure [[EXE]]
 	- This is a very potent ability, however it consumes [[EXE]] at the highest rate of any Consumptions 
-- Expulsion: Creates a cloud of smoke that absorbs light with near perfection and is difficult to breath in
+- Expulsion: Allows the user to conjure shades, these shades can take the form of any living being and can execute simple commands. The more complex the command the more EXE is needed during the initial channel 
 - Drain effect: Lowers the Inhibitions of the target, causing them to become brave and even in some cases reckless 
 
 ### Discovery
@@ -47,11 +45,38 @@ Below is the list of [[EXE]] classifications, how they manifest as [[Echo(s)]], 
 ### Serenity
 *Paired with Anger*
 #### Empaths Channels
-- Consumption: Greatly enhances focus, allowing the Empath to think and react faster than normal
-	- This is the cognitive equivalent to Joy's consumption
+- Consumption: Give the user enhanced healing, the extent of the healing is as much as a human could normally heal albeit extremely accelerated
 - Expulsion: Creates a healing mist, contact with this mist will accelerate the healing of any open wounds
 - Drain effect: Causes anxiety in the drained
-## TODO
-- Repulsion // Passion (or - Pain // Pleasure mayhaps?)
-- Creation // Destruction 
-- Greed // Generosity
+### Pain
+*Paired with Pleasure*
+#### Empaths Channels
+- Consumption: Makes attacks from the Empath do supernaturally more damage
+	- Against living beings this will result in more pain and extreme difficulty healing from wounds
+	- Against objects it'll do more structural damage
+- Expulsion: Allows the user to summon a weapon, the type varies from user to user
+- Drain effect: Will sooth any pain, this will *not* cause any healing
+### Pleasure
+*Paired with Pain*
+#### Empaths Channels
+- Consumption: Causes a pain blocker, wounds and injuries will still exist and all pain will come back afterwards. But during the consumption the Empath will feel no pain. 
+- Expulsion: While focusing on a target, the effected will begin to feel a high like pleasure. Often times muddling thoughts and making them more compliment
+	- This is not inherently sexual but can be if the Empath wants it to be
+- Drain effect: Causes an empty depression in the target
+### Greed
+*Paired with Generosity*
+#### Empaths Channels
+- Consumption: The empath will get a feeling for all the objects within a radius. Additionally, they can focus on a single one to get information regarding how they can acquire the object. The more "secure" the object is the greater level of focus and EXE is required to gather information.
+	- Example: A thief focuses on a gem within a lockbox, using this ability they get an approximation of where the key is. Or alternatively if the lockbox is code lock, they could learn who knows said code or even the code itself depending on it's complexity. 
+- Expulsion: Allows the user to create multiple temporary mundane objects. The perceived value as well as the complexity of the object depends on the amount of EXE expended. As the EXE deteriorates from the conjured object it'll begin to melt into a sludge.
+	- EXAMPLES: Could conjure a pouch of coins, apples, bullets, ect
+	- These items will provide no actual worth
+- Drain effect: The affected will want less
+
+### Generosity
+*Paired with Greed*
+#### Empaths Channels
+- Consumption: Makes the user inherently aware of the needs of all those around them within a desired radius 
+- Expulsion: Allows the user to make dull but practically useful items such as foods, medications, ect.
+	- A side effect of this is the inability to trade these items, as soon as there is a perceived monetary value the items become inept 
+- Drain effect: Causes the afflicted to desire a vice

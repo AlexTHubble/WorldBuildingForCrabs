@@ -1,0 +1,1 @@
+This is the greater universe my stories take place in, using [[The Garden of worlds]] as a cosmological system a wide variety of settings and stories can take place here.

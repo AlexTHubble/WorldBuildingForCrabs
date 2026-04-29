@@ -1,0 +1,1 @@
+Echos are the manifestations of [[EXE]] within the world. The form can vary from monsters to anomalies. 
