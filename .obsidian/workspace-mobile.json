@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The forgotten In-between/EXE.md",
+                "file": "The Crab Verse (working title)/EXE World (working title)/EXE World (working title).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EXE"
+              "title": "EXE World (working title)"
             }
           },
           {
@@ -31,8 +31,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +183,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c0f79d4dd795d9cb",
+  "active": "aa80ba597c205aa4",
   "lastOpenFiles": [
     "The forgotten In-between/Echo(s).md",
     "EXE Classifications.md",
