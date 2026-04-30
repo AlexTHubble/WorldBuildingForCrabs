@@ -25,14 +25,10 @@
             "id": "c0f79d4dd795d9cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EXE Classifications.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "EXE Classifications"
+              "title": "New tab"
             }
           }
         ],
